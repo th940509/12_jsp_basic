@@ -19,6 +19,11 @@
 			   		   <input type="radio" name="gender" value="2"/>여자
 			</p>
 			<p>
+				취미 : <input type="checkbox" name="hobbies" value="운동"/>운동
+					   <input type="checkbox" name="hobbies" value="잠자기"/>잠자기
+					   <input type="checkbox" name="hobbies" value="공부하기"/>공부하기
+			</p>
+			<p>
 				<label for="travel"> 가고 싶은 여행지는</label>
 				<select id="travel" name="travel">
 					<option value="괌">괌</option>
